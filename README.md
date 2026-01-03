@@ -1,4 +1,4 @@
-# Grisson's Blog
+<!-- # Grisson's Blog -->
 Welcome to my blog! My name is __Grisson__. I’m a seasoned software engineer, experienced ML applied scientist, mediocre electric engineer and junior mechanic engineer. I studied at ASU and SJTU. I build 3D printed robot.
 
 ## Miscellaneous 

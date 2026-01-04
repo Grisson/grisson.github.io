@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Setting up this blog"
 date: 2026-01-03
 categories: [misc]

@@ -19,7 +19,7 @@ I archive all the stories and updates of my life journey in site. I also capture
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-<a href= >
+<a href="/solidworks/">see prevous posts</a>
 
 ### Robots
 
